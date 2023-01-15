@@ -9,13 +9,6 @@ import Product from "../Product/Product";
 function Home() {
   return (
     <div className='home__container'>
-        {/* <img ' 
-        src={banner}/> */}
-        {/* <div className='home__row'>
-        <Product />
-        <Product />
-        </div> */}
-
         <div className='home__row'>
         <Product 
           id="123456"

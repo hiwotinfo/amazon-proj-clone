@@ -24,7 +24,7 @@ dispatch({
     <div className='checkoutProduct__rating'rom Bsket>
     {Array(rating)
             .fill()
-                .map(() =>(
+                .map((_, i) =>(
                     <p>⭐</p>  
         ))}
     </div>

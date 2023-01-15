@@ -8,10 +8,10 @@ import '../Footer/Footer.css'
 function Footer() {
   return (
     <> 
-    <footer className="container-fluid footer-links-wrapper">
-	 <div className="all-links-wrapper">
+    <footer className="container-flud footer-links-wrapper">
+	 <div className="container all-links-wrapper">
       <div className="row d-flex">
-        <div className="links-wrapper col col-sm col-md ">
+        <div className="links-wrapper col col-sm-col col-md-col">
             <h3>Amazon Music</h3>
             <ul>
               <li>
