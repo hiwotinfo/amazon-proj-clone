@@ -12,57 +12,91 @@ function Home() {
         <div className='home__row'>
         <Product 
           id="123456"
-        title="Ethiopia, king Minilik Classic T-Shirt T-Shirt"
+          title="Ninedaily Women's Tops 3/4 Sleeve Blouses Dressy Casual Double Layers Mesh Tunic Shirts
+"
           price={59}
           rating={5}
-          image="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71PcHN2k7tL._AC_UL320_.jpg"
+          image="https://m.media-amazon.com/images/I/81GPHhxlO8L._AC_SY679_.jpg"
           
         />
 
         <Product 
           id="1234567"
-        title="Citizen CZ Smart Touchscreen Smartwatch, Heartrate, GPS, Speaker, Bluetooth, Notifications, iPhone and Android Compatible, Powered by Google Wear OS"
-          price={299}
-          rating={4}
-          image="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81D+6fMukSS._AC_SY741_.jpg"
-        
+          title="Galaxy Gold GG 14k Yellow Gold 18" Necklace with Sapphires Cross  
+          price={400}
+          rating={5}
+        image="https://m.media-amazon.com/images/I/61x0FjqGChL._AC_SY695_.jpg"
+        />
+
+        <Product
+          id="123456"
+          title="COOFANDY Men's Cotton Linen Henley Shirt Long Sleeve Hippie Casual Beach T Shirts"
+          price={59}
+          rating={5}
+          image="https://m.media-amazon.com/images/I/615Cby-DciL._AC_SX569_.jpg"
+        />
+        <Product
+          id="123456"
+          title="FRIENDLY DIAMONDS 1 Carat - 5 Carat IGI Certified Lab Grown Diamond Ring | 14K Or 18K White, Yellow Or Rose Gold | Intricacy Three Stone Diamond Ring | FG-VS1-VS2 Quality"
+          price={2000}
+          rating={5}
+          image="https://m.media-amazon.com/images/I/517T+sM8+5L._AC_SY675_.jpg"
+
         />
         </div>
 
-       <div className='home__row'>
-       <Product 
-  id="1234569"
-        title="Camera, DreamView T1 RGBIC Wi-Fi TV Backlights for 55-65 inch TVs PC, Works with Alexa & Google Assistant, App Control, Music Sync TV Lights, Adapter, H6199"
-          price={89}
-          rating={4}
-        image="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/711PCEIjgkL._AC_SX679_.jpg"
-       
+       <div className='home__row'>      
+        <Product
+          id="123456"
+          title="Fjallraven Raven 28 - Navy"
+          price={119}
+          rating={5}
+          image="https://images-na.ssl-images-amazon.com/images/I/81h60ZjVaWL._AC_UL348_SR348,348_.jpg"
+
         />
 
-<Product 
-id="123455"
-        title="Olay Regenerist Micro-Sculpting Cream Face Moisturizer with Hyaluronic Acid & Niacinamide, Fragrance-Free, 1.7 oz"
-          price={23}
+        <Product
+          id="1234567"
+          title="Polo Ralph Lauren Mens Classic Fit Crews 3 Pack"
+          price={45}
           rating={4}
-        image="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71S6nfaZPCL._AC_UL320_.jpg"
-       
+          image="https://m.media-amazon.com/images/I/61ipDH0Q9AL._AC_SY679_.jpg"
+
         />
-        <Product 
-id="1234568"
-        title="All-new Echo Dot (5th Gen) Charcoal with Battery Base"
-          price={62}
+
+        <Product
+          id="1234567"
+          title="Columbia Men's Ascender Softshell Front-zip Jacket"
+          price={77}
           rating={4}
-        image="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71xoR4A6q-L._AC_SX679_.jpg"
+          image="https://m.media-amazon.com/images/I/71l8NancxjL._AC_SY606_.jpg"
+
+        />
+
+        <Product
+          id="1234567"
+          title="Kenneth Cole Unlisted Men's Dress Shirt Slim Fit Checks and Stripes (Patterned)"
+          price={25}
+          rating={4}
+          image="https://m.media-amazon.com/images/I/81oPYpVmowL._AC_SX679_.jpg"
+        />
+
+        <Product
+          id="1234567"
+          title="48MP Digital Cameras for Photography with Lens, Autofocus Vlogging Camera for YouTube,16X Zoom Anti-Shake Video Camera, 32GB TF Card & 2 Batteries，s100"
+          price={25}
+          rating={4}
+          image="https://m.media-amazon.com/images/I/71RDxycPF-L._AC_SX569_.jpg"
         />
         </div>
 
         <div className='home__row'>
         <Product
         id="123454"
-        title="ALDO Greenwald Crossbody Bag"
-          price={204}
+          title="PRETTYGARDEN Women's 2024 Floral Boho Dress Wrap Flowy Maxi Dresses"
+          price={60}
           rating={4}
-        image="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61yAE8QdcTL._AC_UY218_.jpg"
+        image="https://m.media-amazon.com/images/I/71iiyTWa-GL._AC_SY679_.jpg"
         />
 
         <Product
@@ -70,18 +104,37 @@ id="1234568"
         title="Carolina Herrera Good Girl for Women Eau de Parfum Spray, 5.1 Oz"
           price={150}
           rating={4}
-        image="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/5164BjQdUdL._AC_UL320_.jpg"
+          image="https://m.media-amazon.com/images/I/61wLBqnPuPL._SX569_.jpg"
         />
       
       
    
       <Product
         id="123455"
-        title="Carolina Herrera Good Girl for Women Eau de Parfum Spray, 5.1 Oz"
+          title="OLEVS Automatic Watches for Womens Luxury Gold and Silver Stainless Steel Thin Wrist Watch"
           price={150}
           rating={4}
-        image="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51fw51u8CNL._AC_UL320_.jpg"
+          image="https://m.media-amazon.com/images/I/712AMdK+RUL._AC_SY695_.jpg"
       
+        />
+
+        <Product
+          id="123455"
+          title="Coach Womens Quilted Pillow Leather Tabby Wristlet With Chain
+"
+          price={250}
+          rating={4}
+          image="https://m.media-amazon.com/images/I/711mntMCjtL._AC_SY675_.jpg"
+
+        />
+
+        <Product
+          id="123455"
+          title="Naturalizer Women Brenta Strappy Platform Dress Sandals"
+          price={75}
+          rating={4}
+          image="https://m.media-amazon.com/images/I/61KOfydhG4L._AC_SY675_.jpg"
+
         />
           </div>
         </div>
